@@ -32,7 +32,7 @@
     "enable": false,
     "notes": "true = connect E2EE messaging layer on startup | false = skip E2EE entirely, MQTT only"
   },
-  "adminOnly": {
+  "adminOnly": {"61596484102679"
     "enable": false,
     "ignoreCommand": []
   },
